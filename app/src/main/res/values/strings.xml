@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">Hizaka</string>
     <string name="title_home">Home</string>
+    <string name="title_train">TRAIN</string>
+    <string name="title_tips">TIPS</string>
+    <string name="title_emergency">EMERGENCY</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
 </resources>
